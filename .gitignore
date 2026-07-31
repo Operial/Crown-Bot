@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+data/ai_assistant_index.sqlite3
+data/ai_assistant_index.sqlite3-wal
+data/ai_assistant_index.sqlite3-shm
+
+data/pnw_entity_cache.json

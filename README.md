@@ -240,4 +240,3 @@ Both commands require **Manage Server**.
   last elimination passing a channel ID where a guild ID looks intended)
   were left exactly as they were rather than silently "fixed" — happy to
   patch either if you want them changed.
-  
